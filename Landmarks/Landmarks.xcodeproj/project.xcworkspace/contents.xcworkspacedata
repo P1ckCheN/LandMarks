@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/chenc_/Desktop/swift/SelfPractise/Landmarks/Views/LandmarkRow.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/chenc_/Desktop/swift/SelfPractise/Landmarks/Landmarks/ModelData.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/chenc_/Desktop/swift/SelfPractise/Landmarks/Landmarks/Landmark.swift">
+   </FileRef>
+   <FileRef
+      location = "group:../../../../../Downloads/BuildingListsAndNavigation/Resources/landmarkData.json">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
